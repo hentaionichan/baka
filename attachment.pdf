@@ -3,8 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>Proxy server error</title>
-    <link rel="stylesheet" type="text/css" href="ErrorPageStyles.css">
+    <title>server error</title>
     <script language="javascript" type="text/javascript">
         "use strict";
         window.onload = function () {
